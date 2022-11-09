@@ -38,20 +38,20 @@ getgenv().Aiming = {
     Enabled = true,
 
     ShowFOV = false,
-    FOV = 25,
+    FOV = 20,
     FOVSides = 25,
     FOVColour = Color3fromRGB(98, 37, 209),
 
     VisibleCheck = true,
     
-    HitChance = 85,
+    HitChance = 75,
 
     Resolver = false,
 
     Selected = nil,
     SelectedPart = nil,
 
-    TargetPart = {"Head", "HumanoidRootPart", "LowerTorso"},
+    TargetPart = {"Head", "HumanoidRootPart", "LowerTorso", "RightUpperLeg","LeftUpperLeg","LeftLowerLeg","RightLowerLeg"},
 
     Ignored = {
         Teams = {
