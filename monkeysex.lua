@@ -1,4 +1,4 @@
-                                local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/KQh835yG"))()
+                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/7j6/dahoodsexlockmonkeyballs.exe/main/monkesexsupport.lua"))()
                             Aiming.TeamCheck(false)
                              
                             
