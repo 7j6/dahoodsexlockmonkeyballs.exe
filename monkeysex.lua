@@ -61,7 +61,8 @@
                                 -- // Return
                                 return __index(t, k)
                             end)
-                            local mouse = player:GetMouse()
+                            local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
 
 mouse.KeyDown:Connect(function(key)
 
